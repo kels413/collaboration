@@ -7,28 +7,25 @@ of a positive number.
  5! = (1*2)*3*4*5
 */
 
+#include <stdio.h> //please make sure this is always at the file line of your c document
 
-
-
-
-#include <stdio.h>
-
-#define size
+#define size //you have to also complete the define size macro statement
+//however i dont even think it will be needed in this example
 
 int main(void){
 int num;
-printf("Enter a number to determine its factorial : ");
+printf("Enter a number to determine its factorial : ");//always remember your "\n" escape sequence
 scanf("%d",&num);
 
-int numbers [size] = {n}
+int numbers [size] = {n} //no semi-colon //can you explain your taough process at this stage?
 
 int factorial;
 
 for(int i = n; i < n; i--){
-	factorial += number[i]
+	factorial += number[i] //no semi colon
 }
 
-printf("the factorial of %d", factorial);
+printf("the factorial of %d", factorial); 
 
 
 
@@ -36,3 +33,7 @@ printf("the factorial of %d", factorial);
 
 return 0;
 }
+
+//from the above code i could basically tell that you are confused about certain basic concept
+//i would advice that you visit some of the initial
+//thank you ...review by David Jackson
