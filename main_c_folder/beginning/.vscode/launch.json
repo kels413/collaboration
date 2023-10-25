@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/emma/Desktop/collaboration/main_c_folder/beginning",
+      "program": "/Users/emma/Desktop/collaboration/main_c_folder/beginning/build/Debug/outDebug"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/emma/Desktop/collaboration/main_c_folder/0x01-variables_if_else_while",
+      "program": "/Users/emma/Desktop/collaboration/main_c_folder/0x01-variables_if_else_while/build/Debug/outDebug"
+    }
+  ]
+}

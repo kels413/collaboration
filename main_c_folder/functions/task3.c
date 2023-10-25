@@ -1,0 +1,1 @@
+//  write a program that takes a number and checks if its odd or even number.
